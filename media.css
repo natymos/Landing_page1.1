@@ -1,0 +1,64 @@
+@media screen and (width>600px){
+  .logohidden{display:none;}
+  #Menur1{display: none;}
+}
+@media screen and (width<=600px){
+.parteprincipal{background-position: center;
+  height: 600px;px ;}
+header{width: 100%;
+  height: 30px; background-color: transparent}
+  .listabarra1,
+  #logo1{display:none;
+  }
+  #bfollow{display: none;}
+    .titulo{align-items: end;}
+
+  .logohidden{display:inline; 
+    width: fit-content;
+    overflow: hidden;}
+.barra_header{width: 100%;
+  height: 100px ;
+  background-color: transparent;
+  padding: 0;
+  }
+.listabarra{flex: 50%; 
+  padding: 20%;
+  justify-content: end;
+  width: 25px; height: fit-content}
+
+#logo{flex:50%; 
+  padding: 20%;
+  justify-content: start; 
+  ;}
+
+#Menur1{display: flex;
+    overflow: hidden;
+justify-content: end;}
+}
+
+
+#boton3,#boton4{display: none;}
+.botones{align-items: center;}
+.titulo{display: hidden;}
+.vl.2{display: none;}
+.parteprincipal{background-position: center;
+height: 400px;}
+.listabarra1{display:none;}
+ #bfollow{display: none;}
+h1,h2,{justify-content: :center;align-items:end;}
+.botones{justify-content: center;align-items: start;}
+.section2{
+    display: inline-flex;
+    flex-direction: column-reverse;
+
+
+.venta3{display: none;}
+
+#alemania{display:none;}
+
+ .section3A{padding-top: 20%;
+ flex-direction:colum;}
+ .section4{padding-top: 30%;}
+
+ .galeria3{display:none}
+}
